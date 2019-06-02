@@ -12,5 +12,8 @@
     "purch"
   ],
   "author": "Hirak",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^1.17.0"
+  }
 }
