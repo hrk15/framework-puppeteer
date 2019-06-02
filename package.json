@@ -1,0 +1,16 @@
+{
+  "name": "framework-purch",
+  "version": "1.0.0",
+  "description": "demo framework on puppeteer for purch sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "test",
+    "purch"
+  ],
+  "author": "Hirak",
+  "license": "ISC"
+}
